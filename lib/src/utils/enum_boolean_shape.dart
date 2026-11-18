@@ -1,0 +1,1 @@
+enum _BooleanOperation { union, difference, intersection }
